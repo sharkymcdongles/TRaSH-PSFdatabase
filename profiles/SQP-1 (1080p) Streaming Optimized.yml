@@ -21,9 +21,9 @@ tags:
 - 1080p
 - Streaming Optimized
 upgradesAllowed: true
-minCustomFormatScore: 1000
-upgradeUntilScore: 10000
-minScoreIncrement: 1000
+minCustomFormatScore: 100
+upgradeUntilScore: 1000
+minScoreIncrement: 200
 custom_formats:
 - name: SQP - WEB Tier 01
   score: 1700
